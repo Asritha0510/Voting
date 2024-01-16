@@ -1,0 +1,104 @@
+body{
+    
+    background-color: #b8e994;
+
+}
+
+
+#headerSection {
+    padding: 5px;
+}
+
+#headerSection h1{
+    font-family: cursive;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 15%;
+}
+
+#login{
+    padding: 10px;
+    border-radius: 5px;
+    background-color:blue;
+    color: white;
+    font-size: 15px;
+}
+/*Registration*/
+
+
+
+#address{
+    width: 30%;
+}
+#image,#Role{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width:30%;
+
+}
+#register{
+    padding: 10px;
+    border-radius: 5px;
+    background-color:blue;
+    color: white;
+    font-size: 15px;
+}
+
+/* Dashboard
+*/
+#back{
+    padding: 10px;
+    border-radius: 5px;
+    background-color:blue;
+    color: white;
+    font-size: 15px;
+    float:left;
+    margin:10px;
+
+}
+#logout{
+        padding: 10px;
+        border-radius: 5px;
+        background-color:blue;
+        color: white;
+        font-size: 15px;
+        float:right;
+        margin:10px;
+    }
+    
+#profile{
+        background-color: white;
+        width:30%;
+        padding:20px;
+        float:left;
+    }
+ #Group{
+        background-color: white;
+        width:60%;
+        padding:20px;
+        float: right;
+    }
+#votebtn{
+     padding: 10px;
+        border-radius: 5px;
+        background-color:blue;
+        color: white;
+        font-size: 15px;
+    }
+#mainSection{
+    padding:10px;
+}
+
+#headerSection{
+    padding: 10px;
+}
